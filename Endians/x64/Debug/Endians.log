@@ -1,0 +1,4 @@
+﻿  Endians.cpp
+c:\users\tera_pc\documents\visual studio 2015\projects\endians\endians\endians.cpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Endians.vcxproj -> C:\Users\Tera_pc\Documents\Visual Studio 2015\Projects\Endians\x64\Debug\Endians.exe
+  Endians.vcxproj -> C:\Users\Tera_pc\Documents\Visual Studio 2015\Projects\Endians\x64\Debug\Endians.pdb (Full PDB)
