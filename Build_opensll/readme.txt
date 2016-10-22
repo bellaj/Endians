@@ -1,0 +1,2 @@
+these scripts use the location "D:" in all paths so if you want to use different partition to compile the openssl please change the location "D:" in all the files.
+install perl for x86, python and visual studio 2015.
