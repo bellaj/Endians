@@ -5,7 +5,7 @@ Little endians to big endians and double sha256 hashing
 
 compile openSSL code. you could follow the instruction listed here : http://p-nand-q.com/programming/windows/building_openssl_with_visual_studio_2013.html
 
-Alternative (instead compiling openssl) use Windows32-openSSL: http://slproweb.com/products/Win32OpenSSL.html
+Alternative (instead compiling openssl) use Windows32-openSSL(Win32 OpenSSL Installation Project): http://slproweb.com/products/Win32OpenSSL.html
 
 Next open Configuration Properties and then Linker.
 
